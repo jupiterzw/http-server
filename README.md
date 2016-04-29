@@ -11,4 +11,4 @@ cmd进入指定目录文件夹，输入 npm install http-server
 
 cmd输入http-server文件地址即可启动服务访问页面：node node_modules/http-server/bin/http-server
 
-
+注意：不要进入node_modules\http-server\bin文件夹下面去执行 node http-server 命令！
